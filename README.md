@@ -65,10 +65,10 @@ the required records into `mitdb/` at run time (internet access needed).
 
 ## Citation
 
-If you use this code, please cite the manuscript (details to be added) and this repository
+If you use this code, please cite the manuscript and this repository
 (`https://github.com/csk-hub/lxcp-approximate-quantum-adder`).
 
 ## License
 
-MIT, see `LICENSE` (replace the placeholder name before publishing).
+MIT, see `LICENSE`.
 
