@@ -1,0 +1,5 @@
+numpy
+scipy
+matplotlib
+wfdb
+# optional: qiskit  (the scripts fall back to a built-in circuit class if Qiskit is not installed)
